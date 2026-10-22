@@ -71,25 +71,12 @@
 | [**name**](https://github.com/Dani410-cmd/name) | Одно предложение о пользе | Ключевой стек | Автор / роль |
 -->
 
-### 📊 Статистика
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=tokyonight&locale=ru">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=default&locale=ru">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=tokyonight&locale=ru">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=tokyonight&locale=ru">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=default&locale=ru">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=tokyonight&locale=ru">
-</picture>
-</p>
+### 📊 Языки в моих репозиториях
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=tokyonight&locale=ru">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=default&locale=ru">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=tokyonight&locale=ru">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&langs_count=8&hide_border=true&card_width=420&theme=tokyonight&locale=ru">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&langs_count=8&hide_border=true&card_width=420&theme=default&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&langs_count=8&hide_border=true&card_width=420&theme=tokyonight&locale=ru">
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
