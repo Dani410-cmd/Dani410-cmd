@@ -22,7 +22,8 @@
 
 - Довожу ML-идею до работающего сервиса: обучаю модели, встраиваю LLM и упаковываю всё в **FastAPI**, Telegram-бота или веб.
 - Люблю компьютерное зрение: трекинг объектов на видео, управление игрой через позу тела.
-- Работал в команде над двумя шахматными платформами с ИИ: PvP на WebSocket, турниры, Docker / Nginx / Alembic.
+- ML-инженер в проекте со **СберБанком** (SFEDUCASTLING): пайплайн обучения, датасеты, дообучение модели.
+- Fullstack в CoolChess: PvP на WebSocket, кланы, турниры, Docker / Nginx / Alembic.
 - 2 хакатона, курсы Stanford по машинному обучению, английский B1.
 
 ### 🛠 Стек
@@ -71,25 +72,18 @@
 | [**name**](https://github.com/Dani410-cmd/name) | Одно предложение о пользе | Ключевой стек | Автор / роль |
 -->
 
-### 📊 Статистика
+### 🔭 Сейчас
 
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=tokyonight&locale=ru">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=default&locale=ru">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=tokyonight&locale=ru">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=tokyonight&locale=ru">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=default&locale=ru">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=tokyonight&locale=ru">
-</picture>
-</p>
+- 🎤 Развиваю [YASNO](https://github.com/Dani410-cmd/YASNO): LLM-тренажёр питчей и ТЗ.
+- ♟️ Дообучаю модели для шахматной ИИ-платформы в проекте со Сбером.
+- 🎯 Ищу ML-стажировку или первую работу в ML.
+
+### 📊 Языки в моих репозиториях
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=tokyonight&locale=ru">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=default&locale=ru">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=tokyonight&locale=ru">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&langs_count=8&hide_border=true&card_width=420&theme=tokyonight&locale=ru">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&langs_count=8&hide_border=true&card_width=420&theme=default&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&langs_count=8&hide_border=true&card_width=420&theme=tokyonight&locale=ru">
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
