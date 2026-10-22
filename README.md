@@ -60,8 +60,8 @@
 | Проект | Что это | Стек | Роль |
 |---|---|---|---|
 | [**YASNO**](https://github.com/Dani410-cmd/YASNO) | Тренажёр питчей и постановки ТЗ по SMART: Telegram-бот + Mini App, LLM оценивает питч по критериям, распознаёт голос, учитывает тайминг | aiogram 3, FastAPI, SQLite, LLM API, JS | Автор |
-| [**CoolChess**](https://github.com/ichirou-hue/CoolChess) | Учебная шахматная платформа: курсы, задачи Lichess, бот Maia-3, PvP в реальном времени, Elo, турниры | FastAPI, PostgreSQL, WebSocket, React + TS, Docker, Nginx | Основной разработчик (35 из 55 коммитов): PvP, кланы, турниры, инфраструктура |
-| [**SFEDUCASTLING**](https://github.com/ichirou-hue/SFEDUCASTLING) | ИИ-платформа обучения шахматам: Stockfish, Maia3, LLM-разборы ходов, RAG | FastAPI, React, PyTorch, FAISS | Участник команды: распознавание доски PNG → FEN, эмбеддер позиций |
+| [**CoolChess**](https://github.com/ichirou-hue/CoolChess) | Учебная шахматная платформа: курсы, задачи Lichess, бот Maia-3, PvP в реальном времени, Elo, турниры | FastAPI, PostgreSQL, WebSocket, React + TS, Docker, Nginx | FullStack: PvP, кланы, турниры, инфраструктура |
+| [**SFEDUCASTLING**](https://github.com/ichirou-hue/SFEDUCASTLING) | Проект со СберБанк: ИИ-платформа обучения шахматам: Stockfish, Maia3, LLM-разборы ходов, RAG | FastAPI, React, PyTorch, FAISS | ML-engineer: Продумывание пайплайна обучения, работа с датасетами, дообучение модели |
 | [**avito_agent**](https://github.com/Dani410-cmd/avito_agent) | ИИ-менеджер продаж мебели: отвечает клиентам Avito, ищет товары в базе, ведёт лиды | LangChain, Ollama (Qwen3-8B), FastAPI, Playwright, SQLite | Автор |
 | [**flappybird_squat**](https://github.com/Dani410-cmd/flappybird_squat) | Flappy Bird, где птицей управляешь приседаниями перед камерой | OpenCV, MediaPipe, Pygame | Автор |
 | [**cars_detecting_counting**](https://github.com/Dani410-cmd/cars_detecting_counting) | Детекция, трекинг и подсчёт машин на видео по линии | YOLOv8, BoT-SORT, OpenCV | Автор |
