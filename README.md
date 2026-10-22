@@ -28,16 +28,32 @@
 ### 🛠 Стек
 
 **Бэкенд и данные**<br>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite&theme=dark">
+</picture>
 
 **ML / CV / LLM** — PyTorch, scikit-learn, YOLOv8, OpenCV, MediaPipe, LangChain, Ollama<br>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=light">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark">
+</picture>
 
 **Фронтенд, боты, автоматизация**<br>
-<img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,js,html,css&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,vite,nodejs,js,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,vite,nodejs,js,html,css&theme=light">
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,js,html,css&theme=dark">
+</picture>
 
 **DevOps и инструменты**<br>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=light">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark">
+</picture>
 
 ### 🚀 Проекты
 
@@ -58,9 +74,22 @@
 ### 📊 Статистика
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=transparent&locale=ru">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=transparent&locale=ru">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=tokyonight&locale=ru">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=default&locale=ru">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dani410-cmd&show_icons=true&hide_border=true&theme=tokyonight&locale=ru">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=tokyonight&locale=ru">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=default&locale=ru">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani410-cmd&layout=compact&hide_border=true&theme=tokyonight&locale=ru">
+</picture>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=transparent&locale=ru">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=tokyonight&locale=ru">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=default&locale=ru">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani410-cmd&hide_border=true&theme=tokyonight&locale=ru">
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
